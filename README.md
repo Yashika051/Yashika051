@@ -1,4 +1,4 @@
----
+
 ### Hey, I'm Yashika 👋
 
 I'm learning my way into data analysis — mostly by picking a messy dataset, asking a question about it, and figuring out how to answer it with Python and SQL. Still early in the journey, but I like the process: cleaning ugly data, staring at a chart until it tells me something true, and slowly getting less scared of statistics.
