@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashika-puri-83a804294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/https://(https://www.linkedin.com/in/yashika-puri-83a804294/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yashika.puri035@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://kaggle.com/yashikapuri476" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=k00GSzIAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
