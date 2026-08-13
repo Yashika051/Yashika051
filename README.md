@@ -1,16 +1,15 @@
 <div align="center">
 
-# Hi there, I'm Yashika👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yashika&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20Storyteller%20with%20Data&descAlignY=60&descSize=18" width="100%"/>
 
-### Turning messy data into stories worth telling 📊
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Data+Visualization;Turning+Numbers+Into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+stories+worth+telling+%F0%9F%93%8A;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Data+Visualization;Turning+Numbers+Into+Decisions" alt="Typing SVG" />
 
 <br>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashika-puri-83a804294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yashika.puri035@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://kaggle.com/yashikapuri476" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=k00GSzIAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 
 </div>
 
@@ -27,6 +26,7 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 - 🔭 **Currently building:** data analysis projects using real-world, messy datasets
 - 🌱 **Currently learning:** advanced SQL (window functions are humbling me) and A/B testing
 - 📊 **Comfortable with:** EDA, dashboards, and data storytelling
+- 📄 **Published research:** customer segmentation & data mining, and blockchain-AI for adaptive cybersecurity — view on [Google Scholar](https://scholar.google.com/citations?user=k00GSzIAAAAJ&hl=en&authuser=1)
 - 🎯 **Goal:** land a role where I get to turn confusing numbers into decisions people trust
 - 💬 **Ask me about:** data cleaning, Streamlit dashboards, or my 6 open Stack Overflow tabs
 - 🌍 **Based in:** Delhi, India
@@ -45,9 +45,55 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 
 ---
 
-### 💻 Tech Stack
+### 📈 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-4B8BBE?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yashika051&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashika051&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika051&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+### 💻 Technical Skills
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Backend / Data**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Machine Learning**
+![Applied ML](https://img.shields.io/badge/Applied%20Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Tools / Platforms**
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Course Work**
+`DBMS` · `Data Structures & Algorithms` · `OOPS` · `Computer Networks` · `Operating Systems`
+
+---
+
+### 📚 Research
+
+**Customer Segmentation for Market Analysis using Data Mining**  
+Presented at the 2nd International Conference on Optimization Techniques in Engineering and Technology.
+
+**Synergy of Blockchain and Artificial Intelligence for Adaptive Cybersecurity: A Decentralized Intelligence Framework**  
+Published at the 2026 International Conference on AI-Driven Innovations & Applications (IC-AIDA).
+
+📄 [View full publication list on Google Scholar](https://scholar.google.com/citations?user=k00GSzIAAAAJ&hl=en&authuser=1)
+
+![Data Mining](https://img.shields.io/badge/Data%20Mining-6A0DAD?style=for-the-badge) ![Blockchain](https://img.shields.io/badge/Blockchain-6A0DAD?style=for-the-badge) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge) ![Research Methodology](https://img.shields.io/badge/Research%20Methodology-6A0DAD?style=for-the-badge) ![Academic Writing](https://img.shields.io/badge/Academic%20Writing-6A0DAD?style=for-the-badge)
 
 ---
 
@@ -74,6 +120,7 @@ Exploratory data analysis on a retail sales dataset to uncover revenue trends, c
 Designed a relational SQL database and analyzed delivery operations to identify delay patterns and operational bottlenecks.
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 - 🗄️ Custom relational database design for delivery data
@@ -100,10 +147,4 @@ An AI-powered system to forecast patient demand, flag staffing shortages, and re
 
 ---
 
-<div align="center">
-
-### 🌐 Let's Connect
-
-<a href="https://github.com/Yashika051" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Connect%20🌐&fontSize=22&fontColor=ffffff" width="100%"/>
