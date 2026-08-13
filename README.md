@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/https://(https://www.linkedin.com/in/yashika-puri-83a804294/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yashika-puri-83a804294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yashika.puri035@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://kaggle.com/yashikapuri476" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=k00GSzIAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
@@ -89,7 +89,7 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 Presented at the 2nd International Conference on Optimization Techniques in Engineering and Technology.
 
 **Synergy of Blockchain and Artificial Intelligence for Adaptive Cybersecurity: A Decentralized Intelligence Framework**  
-Published at the 2026 International Conference on AI-Driven Innovations & Applications (IC-AIDA).
+Published at IC-AIDA 2026 — International Conference on AI-Driven Innovations & Applications, Jain (Deemed to be University), Bengaluru — technically co-sponsored by IEEE Computational Intelligence Society.
 
 📄 [View full publication list on Google Scholar](https://scholar.google.com/citations?user=k00GSzIAAAAJ&hl=en&authuser=1)
 
@@ -100,7 +100,7 @@ Published at the 2026 International Conference on AI-Driven Innovations & Applic
 ### 🔥 Featured Projects
 
 **📊 Superstore Sales Analysis & Data Visualization**  
-Exploratory data analysis on a retail sales dataset to uncover revenue trends, customer behavior, regional performance, and profitability patterns.
+Exploratory data analysis on a 9,994-row retail sales dataset to uncover revenue trends, customer behavior, regional performance, and profitability patterns.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -108,7 +108,7 @@ Exploratory data analysis on a retail sales dataset to uncover revenue trends, c
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 - 📈 Interactive Streamlit dashboard with dynamic filters
-- 💰 KPI visualizations for revenue and profitability
+- 💰 Found the West region led sales and profit, while discounts above 30% consistently eroded profitability
 - 🌍 Regional and customer-level performance breakdown
 - 🔍 EDA to surface actionable business insights
 
@@ -117,16 +117,16 @@ Exploratory data analysis on a retail sales dataset to uncover revenue trends, c
 ---
 
 **🍔 Food Delivery Delay Analysis**  
-Designed a relational SQL database and analyzed delivery operations to identify delay patterns and operational bottlenecks.
+Designed a relational SQL database and analyzed delivery operations across 50 orders to identify delay patterns and operational bottlenecks.
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 - 🗄️ Custom relational database design for delivery data
-- ⏱️ Delay pattern analysis by restaurant, time slot, and reason
+- ⏱️ Found 60% of orders arrived late, with traffic responsible for half of all delays, and dinner-hour delays (72%) far outpacing lunch (48%)
 - 📊 Interactive HTML dashboard for visual reporting
-- 🔧 Insights aimed at operational process improvement
+- 🔧 Flagged two restaurants with a 100% delay rate for operational review
 
 [🔗 Repository](https://github.com/Yashika051/Food-Delivery-Delay-Analysis)
 
@@ -141,7 +141,7 @@ An AI-powered system to forecast patient demand, flag staffing shortages, and re
 - 🔮 Demand forecasting for staffing needs
 - ⚠️ Shortage detection based on workload
 - 🧠 Explainable AI recommendations, not just black-box predictions
-- 📊 Streamlit dashboard for decision-making support
+- 📊 [Try the live demo](https://staffsense-ai.streamlit.app/)
 
 [🔗 Repository](https://github.com/Yashika051/StaffSense)
 
