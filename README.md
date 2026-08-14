@@ -50,7 +50,7 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yashika051&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashika051&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Yashika051&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika051&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
