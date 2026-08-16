@@ -39,6 +39,14 @@
 
 ---
 
+<!--<div align="center">
+
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>-->
+
+---
+
 ### 🚀 About Me
 
 I got into data analysis because I like knowing *why* things happen, not just *that* they happened. What started as curiosity about spreadsheets turned into genuinely enjoying the whole process, the cleaning, the digging, the moment a messy dataset finally starts making sense.
