@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yashika&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20Storyteller%20with%20Data&descAlignY=60&descSize=18" width="100%"/>
@@ -6,10 +13,15 @@
 
 <br>
 
+<a href="https://yashika051.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yashika-puri-83a804294/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yashika.puri035@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://kaggle.com/yashikapuri476" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=k00GSzIAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yashika051&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -27,6 +39,7 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 - 🌱 **Currently learning:** advanced SQL (window functions are humbling me) and A/B testing
 - 📊 **Comfortable with:** EDA, dashboards, and data storytelling
 - 📄 **Published research:** customer segmentation & data mining, and blockchain-AI for adaptive cybersecurity — view on [Google Scholar](https://scholar.google.com/citations?user=k00GSzIAAAAJ&hl=en&authuser=1)
+- 🌐 **Portfolio:** see all my projects and case studies at [yashika051.github.io](https://yashika051.github.io/)
 - 🎯 **Goal:** land a role where I get to turn confusing numbers into decisions people trust
 - 💬 **Ask me about:** data cleaning, Streamlit dashboards, or my 6 open Stack Overflow tabs
 - 🌍 **Based in:** Delhi, India
@@ -52,11 +65,18 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashika051&theme=tokyonight" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Yashika051&theme=tokyonight&hide_border=true" width="48%" />
 
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashika051&theme=tokyonight" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashika051&theme=tokyonight" width="48%" />
 
-</div> 
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yashika051&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+
+</div>
 
 ---
 
@@ -78,7 +98,7 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 ![Applied ML](https://img.shields.io/badge/Applied%20Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Tools / Platforms**
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) <!-- ![Quarto](https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white)-->
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Course Work**
 `DBMS` · `Data Structures & Algorithms` · `OOPS` · `Computer Networks` · `Operating Systems`
@@ -146,6 +166,16 @@ An AI-powered system to forecast patient demand, flag staffing shortages, and re
 - 📊 [Try the live demo](https://staffsense-ai.streamlit.app/)
 
 [🔗 Repository](https://github.com/Yashika051/StaffSense)
+
+---
+
+<details>
+<summary>⚡ A few fun facts</summary>
+<br>
+🎯 I debug faster with music on<br>
+📚 Currently reading about A/B testing<br>
+☕ Coffee-to-code ratio: dangerously high
+</details>
 
 ---
 
