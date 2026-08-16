@@ -49,20 +49,6 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashika051&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashika051&theme=github_dark" width="48%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashika051&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashika051&theme=github_dark" width="48%" />
-
-</div>
-
----
-
-<!-- ### 📈 GitHub Stats
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashika051&theme=tokyonight" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Yashika051&theme=tokyonight&hide_border=true" width="48%" />
 
@@ -70,7 +56,7 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashika051&theme=tokyonight" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashika051&theme=tokyonight" width="48%" />
 
-</div> -->
+</div> 
 
 ---
 
