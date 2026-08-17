@@ -39,11 +39,11 @@
 
 ---
 
-<!--<div align="center">
+<div align="center">
 
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>-->
+</div>
 
 ---
 
