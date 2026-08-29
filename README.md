@@ -92,12 +92,14 @@ I'm not chasing perfection, I'm chasing understanding. If a dataset confuses me,
 
  <div align="center">
 
+<!--
+
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Yashika051&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
 
 </div> 
-
+-->
 ---
 
 ### 💻 Technical Skills
