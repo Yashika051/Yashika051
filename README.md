@@ -19,9 +19,6 @@
 <a href="https://kaggle.com/yashikapuri476" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=k00GSzIAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yashika051&color=blueviolet&style=for-the-badge)
 
 </div>
 
