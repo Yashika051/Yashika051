@@ -192,7 +192,6 @@ An AI-powered system to forecast patient demand, flag staffing shortages, and re
 <summary>⚡ A few fun facts</summary>
 <br>
 🎯 I debug faster with music on<br>
-  
 ☕ Coffee-to-code ratio: dangerously high
 </details>
 
